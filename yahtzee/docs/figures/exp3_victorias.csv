@@ -1,0 +1,4 @@
+enfrentamiento,n,tasa_victoria_primero,ic95_mitad
+Heurística vs Aleatoria,5000,0.9997,0.0004382342536272244
+Voraz vs Aleatoria,5000,0.9956,0.001813714210300876
+Heurística vs Voraz,5000,0.8831,0.008861490604178597
